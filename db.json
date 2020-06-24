@@ -1,0 +1,35 @@
+{
+  "meta": {
+    "code": 200,
+    "version": "local"
+  },
+  "data": [
+    {
+      "fulfillment_date": "2020-05-28",
+      "fulfillment_nodes": [
+        {
+          "fulfillment_node_id": 83,
+          "daily_available_capacity": 2700
+        }
+      ]
+    },
+    {
+      "fulfillment_date": "2020-05-28",
+      "fulfillment_nodes": [
+        {
+          "fulfillment_node_id": 83,
+          "daily_available_capacity": 2700
+        }
+      ]
+    },
+    {
+      "fulfillment_date": "2020-05-29",
+      "fulfillment_nodes": [
+        {
+          "fulfillment_node_id": 83,
+          "daily_available_capacity": 2700
+        }
+      ]
+    }
+  ]
+}
